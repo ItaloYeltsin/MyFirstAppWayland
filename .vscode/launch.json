@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RunMyFirstAppApplication",
+            "request": "launch",
+            "mainClass": "com.totalcross.RunMyFirstAppApplication",
+            "projectName": "MyFirstApp"
+        }
+    ]
+}
